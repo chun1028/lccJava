@@ -23,3 +23,4 @@ public class Homework_0710 {
 		System.out.println("程式執行完畢");
 	}
 }
+//OK , 判斷OK ，建議單行的{ } 可以整個都不寫入，一個有一個沒有看起來比較怪一些。 
